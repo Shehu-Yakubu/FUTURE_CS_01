@@ -1,7 +1,7 @@
-# FUTURE_CS_01
-Web Application Security Testing
+# WEB APPLICATION SECURITY
+Vulnerability assessment of a real-world or open-source web application. The goal is to identify security flaws using ethical hacking tools and OWASP standards.
 
-# DAMN VULNERABLE WEB APP (DVWA) SETUP
+## DAMN VULNERABLE WEB APP (DVWA) SETUP
 **Step 1**
 1. Cloning the GitHub repo -> https://github.com/digininja/DVWA.git
 2. Moving the cloned repo to a specific folder -> sudo mv DVWA /var/www/html
@@ -31,3 +31,14 @@ Web Application Security Testing
 1. Successful login to the DVWA website.
 <img width="1920" height="1080" alt="DVWA-Setup-5" src="https://github.com/user-attachments/assets/f10cce1b-0957-48d5-8134-ced99291f366" />
 
+## SQL Injection Attack
+<img width="1915" height="867" alt="SQLI-2" src="https://github.com/user-attachments/assets/03164fea-4621-437c-a12d-00604af05062" />
+<img width="900" height="680" alt="SQLI-1" src="https://github.com/user-attachments/assets/858eab31-c44e-4a12-a6e8-518c9606170e" />
+
+## Reflected Cross-Site Scripting (XSS) Attack
+<img width="1918" height="826" alt="XSS_S-1" src="https://github.com/user-attachments/assets/a48c997e-fae3-4117-9a66-38360a8f6a13" />
+<img width="1918" height="869" alt="XSS_S-2" src="https://github.com/user-attachments/assets/9bc0294a-3170-4c92-b101-69906aa6e24b" />
+
+## Stored Cross-Site Scripting (XSS) Attack
+<img width="1919" height="875" alt="XSS_R-2" src="https://github.com/user-attachments/assets/4b5e2fd7-ad0c-4f0d-8334-29f74d570e54" />
+<img width="1916" height="833" alt="XSS_R-1" src="https://github.com/user-attachments/assets/9fc94322-6efd-4276-9435-4e4c6278f6b6" />
